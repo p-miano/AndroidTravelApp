@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Travel App</string>
+    <string name="f_c">F/C</string>
+    <string name="weather_icon">Weather Icon</string>
+    <string-array name="city_names">
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Houston</item>
+        <item>Phoenix</item>
+        <item>Montreal</item>
+    </string-array>
+</resources>
